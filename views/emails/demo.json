@@ -1,0 +1,6 @@
+{
+  "from": "Sara and Friends <noreply@example.com>",
+  "subject": "Hey! Enjoy MIO Mail Composer!",
+  "attachments": ["mio.png"],
+  "template": "html/demo.html"
+}
