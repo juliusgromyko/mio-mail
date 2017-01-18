@@ -1,0 +1,23 @@
+{
+  "name": "mio-mail",
+  "version": "1.0.0",
+  "description": "Mail middleware",
+  "homepage": "http://gromy.co",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Gromyco/mio-mail"
+  },
+  "main": "mail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MIO",
+    "hight",
+    "load",
+    "node",
+    "npm"
+  ],
+  "author": "Julius Gromyko <JuliusGromyko@gmail.com> (http://gromy.co)",
+  "license": "MIT"
+}
