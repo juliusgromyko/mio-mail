@@ -21,7 +21,7 @@
   "author": "Julius Gromyko <JuliusGromyko@gmail.com> (http://gromy.co)",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mailcomposer": "4.0.1",
     "vash": "0.12.2"
   }
